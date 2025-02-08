@@ -1,0 +1,12 @@
+## También puedes llamar con langchain
+langchain
+langchain_community
+langchain-google-genai
+
+
+python-dotenv    ## Para la llamado de la variable de entorno
+streamlit	 ## Librería para desplegar modelo
+
+## Librerías de google
+google-cloud-secret-manager
+google-generativeai
