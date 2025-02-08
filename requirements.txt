@@ -1,4 +1,4 @@
-## También puedes llamar con langchain
+## También puedes llamar con langchain (No son necesarias para este proyecto, pero puedes usarlas en proyectos con RAG)
 langchain
 langchain_community
 langchain-google-genai
