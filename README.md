@@ -2,6 +2,9 @@
 
 Zerberus es un chatbot interactivo desarrollado con Streamlit y la API de Gemini (Google Generative AI). Su principal característica es la capacidad de mantener memoria y contexto en la conversación, permitiendo una experiencia más fluida e intuitiva para el usuario.
 
+![image](https://github.com/user-attachments/assets/aba83aca-c0b3-4d8a-8fb6-4cc686ceb3dd)
+
+
 ## CARACTERÍSTICAS PRINCIPALES:
 
 ✅ Memoria de la conversación: Guarda el historial de mensajes en la sesión de Streamlit, lo que permite que el chatbot recuerde el contexto y mantenga coherencia en las respuestas.
